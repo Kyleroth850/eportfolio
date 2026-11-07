@@ -1,15 +1,8 @@
-
-/*
-Design by TEMPLATED
-http://templated.co
-Released for free under the Creative Commons Attribution License
-*/
-
 body {
 	margin: 0;
 	padding: 0;
-	background: #E5E6DD;
-	font-family: 'Oxygen', sans-serif;
+	background: #9bd6fe;
+	font-family: 'Oxygen', Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #8A8985;
 }
@@ -118,7 +111,7 @@ a:hover {
 	overflow: hidden;
 	height: 52px;
 	margin-bottom: 2em;
-	background: #000000;
+	background: #3a91b7;
 }
 
 #menu {
@@ -148,13 +141,13 @@ a:hover {
 	font-family: 'Oswald', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
-	color: #FFFFFF;
+	color: #edfaff;
 }
 
 #menu a:hover, #menu .current_page_item a {
 	background: #7D7764;
 	text-decoration: none;
-	color: #FFFFFF;
+	color: #edfaff;
 }
 
 #menu .current_page_item a {
