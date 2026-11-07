@@ -8,7 +8,7 @@ Released for free under the Creative Commons Attribution License
 body {
 	margin: 0;
 	padding: 0;
-	background: #9bd6fe;
+	background: #E8E2D4;
 	font-family: 'Oxygen', Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #2B3A35;
@@ -44,7 +44,7 @@ ul, ol {
 
 a {
 	text-decoration: none;
-	color: #5BA689;
+	color: #1F4D3F;
 }
 
 a:hover {
@@ -52,7 +52,7 @@ a:hover {
 
 #wrapper {
 	overflow: hidden;
-	background: #F1F2E9;
+	background: #FAF7F0;
 }
 
 .container {
@@ -97,18 +97,18 @@ a:hover {
 	padding: 0px 0px 0px 5px;
 	font-size: 20px;
 	font-weight: 300;
-	color: #5A7184;
+	color: #66756F;
 }
 
 #logo p a {
-	color: #5A7184;
+	color: #66756F;
 }
 
 #logo a {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #1B3A4B;
+	color: #12332A;
 }
 
 
@@ -118,7 +118,7 @@ a:hover {
 	overflow: hidden;
 	height: 52px;
 	margin-bottom: 2em;
-	background: #3a91b7;
+	background: #3A91b7;
 }
 
 #menu {
@@ -148,13 +148,13 @@ a:hover {
 	font-family: 'Oswald', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
-	color: #edfaff;
+	color: #FAF7F0;
 }
 
 #menu a:hover, #menu .current_page_item a {
 	background: #7D7764;
 	text-decoration: none;
-	color: #edfaff;
+	color: #3E6A8A;
 }
 
 #menu .current_page_item a {
@@ -190,7 +190,7 @@ a:hover {
 	line-height: normal;
 	text-align: center;
 	text-shadow: 1px 1px 0px #FFFFFF;
-	color: #7C93A3;
+	color: #3A91b7;
 }
 
 #footer a {
@@ -242,7 +242,7 @@ a:hover {
 	padding: 10px 0px;
 	letter-spacing: -1px;
 	font-size: 22px;
-	color: #2D2D2D;
+	color: #12332A;
 }
 
 .box-style .content {
@@ -257,5 +257,5 @@ a:hover {
 	margin: 1em 0em;
 	background: #000;
 	padding: 1em 2em;
-	color: #FFFFFF;
+	color: #FAF7F0;
 }
