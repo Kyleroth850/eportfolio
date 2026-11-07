@@ -118,7 +118,7 @@ a:hover {
 	overflow: hidden;
 	height: 52px;
 	margin-bottom: 2em;
-	background: #3A91b7;
+	background: #2A6D8F;
 }
 
 #menu {
@@ -152,9 +152,9 @@ a:hover {
 }
 
 #menu a:hover, #menu .current_page_item a {
-	background: #7D7764;
+	background: #12332A;
 	text-decoration: none;
-	color: #3E6A8A;
+	color: #FAF7F0;
 }
 
 #menu .current_page_item a {
@@ -190,7 +190,7 @@ a:hover {
 	line-height: normal;
 	text-align: center;
 	text-shadow: 1px 1px 0px #FFFFFF;
-	color: #3A91b7;
+	color: #232B2B;
 }
 
 #footer a {
@@ -234,7 +234,7 @@ a:hover {
 }
 
 .box-style {
-	background: #FFFFFF;
+	background: #EAE6D9;
 	text-align: center;
 }
 
