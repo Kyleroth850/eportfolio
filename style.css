@@ -97,18 +97,18 @@ a:hover {
 	padding: 0px 0px 0px 5px;
 	font-size: 20px;
 	font-weight: 300;
-	color: #696969;
+	color: #5A7184;
 }
 
 #logo p a {
-	color: #696969;
+	color: #5A7184;
 }
 
 #logo a {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #3C342E;
+	color: #1B3A4B;
 }
 
 
@@ -190,12 +190,12 @@ a:hover {
 	line-height: normal;
 	text-align: center;
 	text-shadow: 1px 1px 0px #FFFFFF;
-	color: #909090;
+	color: #7C93A3;
 }
 
 #footer a {
 	text-decoration: underline;
-	color: #909090;
+	color: #7C93A3;
 }
 
 #footer a:hover {
