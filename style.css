@@ -1,10 +1,17 @@
+
+/*
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+*/
+
 body {
 	margin: 0;
 	padding: 0;
 	background: #9bd6fe;
 	font-family: 'Oxygen', Arial, Helvetica, sans-serif;
 	font-size: 13px;
-	color: #8A8985;
+	color: #d8feff;
 }
 
 h1, h2, h3 {
@@ -12,7 +19,7 @@ h1, h2, h3 {
 	padding: 0;
 	text-transform: uppercase;
 	font-weight: 300;
-	color: #7D7764;
+	color: #85fbff;
 }
 
 h1 {
